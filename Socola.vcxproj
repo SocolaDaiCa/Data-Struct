@@ -128,6 +128,7 @@
   <ItemGroup>
     <ClInclude Include="BalancedTree.h" />
     <ClInclude Include="List.h" />
+    <ClInclude Include="ListFast.h" />
     <ClInclude Include="ListV2.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="QueueV2.h" />

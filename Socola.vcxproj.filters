@@ -16,6 +16,9 @@
     <Filter Include="Header Files\V2">
       <UniqueIdentifier>{0a1bd6cb-c90f-4d96-927d-f0e0443538c1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Fast">
+      <UniqueIdentifier>{ef28f6bc-4b8f-42e6-967e-f57fc4456c9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -49,6 +52,9 @@
     </ClInclude>
     <ClInclude Include="Tree3Chan.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListFast.h">
+      <Filter>Header Files\Fast</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
