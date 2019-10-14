@@ -56,5 +56,8 @@
     <ClInclude Include="ListFast.h">
       <Filter>Header Files\Fast</Filter>
     </ClInclude>
+    <ClInclude Include="TrieFast.h">
+      <Filter>Header Files\Fast</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
